@@ -1,9 +1,11 @@
 # TruthLens - Deepfake Video Detection
 
-A full-stack web application for detecting deepfake videos using deep learning. The application uses a TensorFlow-based neural network model to analyze video frames and determine whether a video is authentic or artificially manipulated.
+TruthLens is a deep learning–based system designed to detect manipulated images and videos (deepfakes) by analysing spatial and temporal inconsistencies in facial regions. The system uses a ResNet-based convolutional architecture and is deployed through a lightweight Streamlit interface for real-time analysis.
 
 ## 🎯 Project Overview
 
+The rapid advancement of deepfake generation techniques has made it increasingly difficult to distinguish between authentic and manipulated visual media. TruthLens addresses this challenge by providing an accessible and reliable deepfake detection framework that focuses on image and video forgery detection using deep neural networks.
+The proposed system is intended for academic research, media forensics, and educational purposes.
 **TruthLens** is a comprehensive deepfake detection system with:
 - **Backend API** (Flask) - Processes video uploads and runs deepfake detection using TensorFlow
 - **Frontend Interface** (React) - User-friendly web interface for uploading and analyzing videos
