@@ -1,6 +1,4 @@
-# Model files
-*.h5
-*.keras
+# Model training files
 evaluate_model.py
 trainin.ipynb
 
