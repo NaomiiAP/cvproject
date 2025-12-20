@@ -207,25 +207,5 @@ Edit the following constants in `backend/app.py` to customize behavior:
 - CORS is enabled to allow cross-domain frontend requests
 - Maximum upload size is configurable (default: 500MB)
 
-## 🤝 Contributing
 
-To contribute to this project:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
-## 📄 License
-
-This project is provided as-is for educational and research purposes.
-
-## 📞 Support
-
-For issues or questions:
-- Check the backend [README.md](backend/README.md) for API-specific details
-- Check the frontend [README.md](frontend/README.md) for UI-specific details
-- Review the configuration section above for troubleshooting
-
----
-
-**Happy Detecting! 🎥✨**
